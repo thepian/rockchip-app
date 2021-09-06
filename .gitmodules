@@ -1,0 +1,39 @@
+[submodule "aiserver"]
+	path = aiserver
+	url = https://digitalgap@gitlab.com/firefly-linux/app/aiserver
+[submodule "camera"]
+	path = camera
+	url = https://gitlab.com/firefly-linux/app/camera
+[submodule "video"]
+	path = video
+	url = https://digitalgap@gitlab.com/firefly-linux/app/video
+[submodule "mediaserver"]
+	path = mediaserver
+	url = https://digitalgap@gitlab.com/firefly-linux/app/mediaserver
+[submodule "CameraFactoryTestServer"]
+	path = CameraFactoryTestServer
+	url = https://digitalgap@gitlab.com/firefly-linux/app/CameraFactoryTestServer
+[submodule "storage_manager"]
+	path = storage_manager
+	url = https://digitalgap@gitlab.com/firefly-linux/app/storage_manager
+[submodule "firefly_rkmedia_demo"]
+	path = firefly_rkmedia_demo
+	url = https://digitalgap@gitlab.com/firefly-linux/app/firefly_rkmedia_demo
+[submodule "firefly_rkmedia_uvc"]
+	path = firefly_rkmedia_uvc
+	url = https://digitalgap@gitlab.com/firefly-linux/app/firefly_rkmedia_uvc
+[submodule "firefly_rockx_demo"]
+	path = firefly_rockx_demo
+	url = https://digitalgap@gitlab.com/firefly-linux/app/firefly_rockx_demo
+[submodule "eptz_demo"]
+	path = eptz_demo
+	url = https://digitalgap@gitlab.com/firefly-linux/app/eptz_demo
+[submodule "librkdb"]
+	path = librkdb
+	url = https://digitalgap@gitlab.com/firefly-linux/app/librkdb
+[submodule "libIPCProtocol"]
+	path = libIPCProtocol
+	url = https://digitalgap@gitlab.com/firefly-linux/app/libIPCProtocol
+[submodule "libgdbus"]
+	path = libgdbus
+	url = https://digitalgap@gitlab.com/firefly-linux/app/libgdbus
